@@ -20,7 +20,7 @@ List of interesting context keys expressions.
 
 List of interesting custom CSS snippets.
 
-- _No customizations yet_
+- [Dracula Theme Fixes](https://gist.github.com/MMK21Hub/529a86beb5b4c15e8a8cb2bb110bbdfc) (for users of the Dracula theme, since many parts of the theme broke in 1.9-beta.2)
 
 ## Custom JS
 
