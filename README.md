@@ -92,6 +92,19 @@ List of interesting custom shortcuts.
 </details>
 
 <details>
+  <summary>Surround selected text (without clipboard side-effects)</summary>
+
+```json
+{
+  "shortcut": "Ctrl+/",
+  "command": "editor.formatting.custom.add",
+  "args": ["<!-- ", " -->"]
+}
+```
+
+</details>
+
+<details>
   <summary>Insert text at beginning of line, e.g. headers</summary>
 
 ```json
