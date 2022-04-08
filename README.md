@@ -114,7 +114,7 @@ List of interesting custom shortcuts.
 List of interesting theming-related configurations.
 
 - 3500+ different themes ported from VS Code are installable via the "Theme: Install..." command
-- [Absent Minded (Light)] (based off the [Rainglow "Absent" Theme](https://rainglow.io/preview/#absent))
+- [Absent Minded (Light)](https://github.com/epmoyer/absent_minded_light) (based off the [Rainglow "Absent" Theme](https://rainglow.io/preview/#absent))
 
 ## Other customizations
 
