@@ -20,13 +20,15 @@ List of interesting context keys expressions.
 
 List of interesting custom CSS snippets.
 
-- _No customizations yet_
+- [Bumblebee Theme](https://github.com/Serenacula/bumblebee-theme) (a light theme with a yellow-on-black sidebar)
+- [Noteworthy](https://github.com/epmoyer/noteworthy) (a custom light theme with colored sidebar elements)
 
 ## Custom JS
 
 List of interesting custom JavaScript snippets.
 
 - [Markdown Calc](https://gist.github.com/kmccullen97/b7d54da28572c6a4156b051aa2eb0644) (turn static tables into spreadsheets)
+- [notable-todoist](https://github.com/pavkum/notable-todoist) (intergration with the Todoist online to-do service)
 
 ## Settings
 
@@ -112,7 +114,7 @@ List of interesting custom shortcuts.
 List of interesting theming-related configurations.
 
 - 3500+ different themes ported from VS Code are installable via the "Theme: Install..." command
-
+- [Absent Minded (Light)] (based off the [Rainglow "Absent" Theme](https://rainglow.io/preview/#absent))
 
 ## Other customizations
 
